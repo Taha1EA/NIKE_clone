@@ -8,7 +8,7 @@ import SpecialOffer from './sections/SpecialOffer';
 import Footer from './sections/Footer';
 import Nav from './components/Nav';
 const App =() =>(
-  <main className="relative">
+  <main className="relative bg-white">
     <Nav />
     <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
